@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<workshop_settings>
+  <workshop_id>730</workshop_id>
+  <download_method>steamapi</download_method>
+  <anonymous_login>1</anonymous_login>
+  <mods_path>game/bin/linuxsteamrt64</mods_path>
+  <mods>
+    <mod id="3070247085">
+      <name>AWP Lego 2</name>
+      <description>QSBzaW1wbGUgTGVnby1zdHlsZSBtYXAgdG8gcGxheSB3aXRoIEFXUA0KVGhlIG9mZmljaWFsIHBvcnQgZnJvbSBDUzpHTw==</description>
+      <image_url>https://images.steamusercontent.com/ugc/2344755577750599311/9DBDEB573CAE4A28E27C478DA234116EC31ABB34/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>68435685</file_size>
+    </mod>
+    <mod id="3224331851">
+      <name>awp_doodlebop_remastered</name>
+      <description>VGhlIGJlc3QgYXdwIG1hcCBpbiB0aGUgY2xvdWRzIQ0KDQpIb3N0ZWQgb24gZ2xvdmV3b3JrcyENCmNvbm5lY3QgMTYyLjI0OC45My41OjI3MDE1DQp0byBwbGF5IG5vdyENCg0KMTggQ1QgU3Bhd24ncyB3aXRoIEFXUCAmIEtuaWZlDQoxOCBUIFNwYXduJ3Mgd2l0aCBBV1AgJiBLbmlmZQ0KDQpUaGlzIG1hcCBoYXMgYSBsb25nIGhpc3RvcnkgYmVoaW5kIGl0LiBJdCB3YXMgb3JpZ2luYWxseSBjcmVhdGVkIGluIDIwMjEgYnkgcHJhY2MgYW5kIGJvcmV1cnMgYXMgYSBHdW5HYW1lIG1hcCBmb3IgQ291bnRlci1TdHJpa2U6IFNvdXJjZS4NCg0KTWFnaWM4QmFsbCBzYXcgdGhlIG1hcCByZWNlbnRseSBwb3N0ZWQgb24gdGhlIFN0ZWFtIFdvcmtzaG9wIGluIDIwMjIgYW5kIHRob3VnaHQgaXQgd291bGQgbWFrZSBhIGdyZWF0IEFXUCBtYXAgZm9yIGhpcyBwb3B1bGFyIGdsb3Zld29ya3MgQVdQIHNlcnZlcnMuIEhlIHRob3VnaHQgdGhlIG1hcCBuYW1lIGNvdWxkIGJlIGEgYml0IG1vcmUgbWVtb3JhYmxlIGZvciBoaXMgY29tbXVuaXR5IHNvIGhlIHJlbmFtZWQgdGhlIG1hcCB0byBhd3BfZG9vZGxlYm9wLg0KDQpUaGUgbWFwLCBub3cgbmFtZWQgYXdwX2Rvb2RsZWJvcCB3YXMgYSBzbWFzaCBoaXQgaW5zaWRlIHRoZSBnbG92ZXdvcmtzIEFXUCBzZXJ2ZXJzLiBJdCBxdWlja2x5IGJlY2FtZSBvbmUgb2YgdGhlIG1vc3QgcG9wdWxhciBtYXBzIGluIHRoZSBzZXJ2ZXIuIFBsYXllcnMgbG92ZWQgdGhlIGZhc3QgcGFjZWQgc3R5bGUgd2l0aCBmdW4gZWxlbWVudHMgb2YgZmx5dGluZyBhY3Jvc3MgdGhlIG1hcCB1c2luZyB0aGUgcmFtcHMgb24gdGhlIHRvcCBwbGF0Zm9ybS4NCg0KV2hlbiBDUzIgd2FzIHJlbGVhc2VkLCBNYWdpYzhCYWxsIHBvcnRlZCB0aGUgbWFwIGZyb20gQ1M6R08gdG8gQ1MyIHVzaW5nIHRoZSBuZXcgU291cmNlIDIgZW5naW5lLiA2IG1vbnRoIHBhc3NlZCBhbmQgSSBkZWNpZGVkIHRvIHRha2UgaXQgdXBvbiBteXNlbGYgdG8gcmVtYXN0ZXIgdGhlIG1hcC4NCg0KSSB1c2VkIG15IHNwZWNpYWxpemVkIHNraWxsc2V0cyB0byB1cHNjYWxlIHRoZSB0ZXh0dXJlcyBhbmQgcmVmaW5pc2hlZCB0aGVtIHVzaW5nIFBCUiB0ZWNobmlxdWVzIHRvIGJyaW5nIHRoZSBwYXBlciB0ZXh0dXJlcyB0byB0aGUgbWFwcGluZyBzdGFuZGFyZHMgb2YgMjAyNC4NCg0KVGhlIG1hcCBpcyBub3cgbG9va2luZyBiZXR0ZXIgdGhhbiBldmVyIGFuZCBjb250aW51ZXMgdG8gYmUgYSBiZWxvdmVkIG1hcCBvZiB0aGUgQVdQaW5nIGNvbW11bml0eSENCg0KU2luY2UgdGhlIGZpcnN0IHJlbGVhc2UgSSd2ZSBzaW5jZSByZW1hZGUgYWxsIHRoZSB0ZXh0dXJlcyBmcm9tIHNjcmF0Y2ggdG8gaW1wcm92ZSB0aGUgbG9vayBvZiB0aGUgbWFwIGV2ZW4gbW9yZSENCg0KIk1hcCBmb3IgR3VuR2FtZSAoQXJtcyBSYWNlKSINCg0KT3JpZ2luYWwgQ1M6R08gTWFwIGJ5IFByYWNjICYgQm9yZXVycw0KaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vc2hhcmVkZmlsZXMvZmlsZWRldGFpbHMvP2lkPTI2NzYwMjIxNzENCg0KT05fR1JJRA0KZm9yZ2UgdGhlIHdvcmxk</description>
+      <image_url>https://images.steamusercontent.com/ugc/2407824127358058669/80B378DB2404689F626CD29577808B0AA5858CCA/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>70706972</file_size>
+    </mod>
+    <mod id="3459732264">
+      <name>awp_india [Awp]</name>
+      <description>QWxsIGNyZWRpdHMgdG8gb3JpZ2luYWwgYXdwX2luZGlhIGNyZWF0b3JzLg==</description>
+      <image_url>https://images.steamusercontent.com/ugc/11458025130196507821/F06AF98E8BA411DF2F23D81DF78FD1BB82160D5D/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>57760309</file_size>
+    </mod>
+    <mod id="3349655837">
+      <name>Awp Minecraft Eight</name>
+      <description>WW91IGNhbiBmaW5kIG1vcmUgbWFwcyBvbiBteSB3b3Jrc2hvcCwgWW91IGNhbiBmb2xsb3cgbXkgd29ya3Nob3AgOik=</description>
+      <image_url>https://images.steamusercontent.com/ugc/53580976222991116/352883E7CAD950051FA6B28DF1CBD50F5FB3D82E/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>20547794</file_size>
+    </mod>
+    <mod id="3071818846">
+      <name>de_rats_kitchoon</name>
+      <description>L1wgY2FydGUgZXQgdGV4dHVyZXMgb3JpZ2luYWxlcyB2ZW5hbnQgZCcxLjYgcGFyIFNreWxlIGV0IE11bGR5ZXIgL1wgU2l0ZXMgZGUgZMOpc2Ftb3LDp2FnZSBwcsOocyBkdSBjb25jb21icmUgZXQgZGUgbGEgY2Fzc2Vyb2xlLg==</description>
+      <image_url>https://images.steamusercontent.com/ugc/18674447009833325/ACD6F3EB8EFD67839978F6E468D18D2C969B4B7A/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>42314589</file_size>
+    </mod>
+    <mod id="3565920324">
+      <name>de_rats_room</name>
+      <description>0JTQsNC90L3QsNGPINC70L7QutCw0YbQuNGPIC0g0LrQvtC80L3QsNGC0LAg0LIg0YHRgtGD0LTQtdC90YfQtdGB0LrQvtC8INC+0LHRidC10LbQuNGC0LjQuCDQvdCw0LrQsNC90YPQvdC1INGB0LXRgdGB0LjQuC4g0J/QvtC80LjQvNC+INGB0YLRg9C00LXQvdGC0L7QsiDQsiDRjdGC0L7QuSDQutC+0LzQvdCw0YLQtSDQttC40LLRg9GCINGE0LjQutGB0LjQutC4INC4INGC0LDRgNCw0LrQsNC90YsuINCk0LjQutGB0LjQutC4IC0g0LTRgNGD0LfRjNGPINC70Y7QtNC10LksINC60L7RgtC+0YDRi9C1INC/0L7QvNC+0LPQsNGO0YIg0YEg0L/RgNC+0LHQu9C10LzQsNC80Lgg0L/QviDRgtC10YXQvdC40LrQtSwg0LAg0YLQsNC60LbQtSDRgSDQtNC+0LzQsNGI0L3QuNC80Lgg0LfQsNC00LDQvdC40Y/QvNC4LiDQotCw0YDQsNC60LDQvdGLINC20LUg0YXQvtGC0Y/RgiDQt9Cw0YXQstCw0YLQuNGC0Ywg0LLRgdGOINC60L7QvNC90LDRgtGDLCDQtNC70Y8g0Y3RgtC+0LPQviDQvtC90Lgg0YXQvtGC0Y/RgiDQstC30L7RgNCy0LDRgtGMINC80LjQutGA0L7QstC+0LvQvdC+0LLQutGDINC4INC70LjRiNC40YLRjCDQtdC00Ysg0YHRgtGD0LTQtdC90YLQvtCyLCDQu9C40LHQviDRg9C90LjRh9GC0L7QttC40YLRjCDQuNGFINC60L7QvdGB0L/QtdC60YLRiyDQtNC70Y8g0L/QvtC00LPQvtGC0L7QstC60Lgg0Log0YHQtdGB0YHQuNC4LgoKLS0tLS0KClRoaXMgbG9jYXRpb24gaXMgYSByb29tIGluIHRoZSBzdHVkZW50IGRvcm1pdG9yeSBvbiB0aGUgZXZlIG9mIHRoZSBzZXNzaW9uLiBCZXNpZGVzIHRoZSBzdHVkZW50cywgZml4aWVzIGFuZCBjb2Nrcm9hY2hlcyBsaXZlIGluIHRoaXMgcm9vbS4gRml4aWVzIGFyZSBmcmllbmRzIG9mIHBlb3BsZSB3aG8gaGVscCB3aXRoIHRlY2huaWNhbCBwcm9ibGVtcywgYXMgd2VsbCBhcyB3aXRoIGhvbWV3b3JrLiBDb2Nrcm9hY2hlcyB3YW50IHRvIHRha2Ugb3ZlciB0aGUgd2hvbGUgcm9vbSwgdG8gZG8gdGhpcyB0aGV5IHdhbnQgdG8gYmxvdyB1cCB0aGUgbWljcm93YXZlIGFuZCBkZXByaXZlIHRoZSBzdHVkZW50cyBvZiBmb29kLCBvciB0byBkZWdyYWRlIHRoZWlyIG5vdGVzIHRvIHByZXBhcmUgZm9yIHRoZSBzZXNzaW9uLg==</description>
+      <image_url>https://images.steamusercontent.com/ugc/13408896304209165165/F2C2F4D1DC125C04A2F47802799EA345F32B0C02/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>147994685</file_size>
+    </mod>
+    <mod id="3094723224">
+      <name>awp_gony_v2</name>
+      <description>MTYgQ1QgU3Bhd25zIHdpdGggQVdQICYgS25pZmUKMTYgVCBTcGF3bnMgd2l0aCBBV1AgJiBLbmlmZQoKT3JpZ2luYWwgQ1M6R08gTWFwCmh0dHBzOi8vc3RlYW1jb21tdW5pdHkuY29tL3NoYXJlZGZpbGVzL2ZpbGVkZXRhaWxzLz9pZD04MzAyNjc5MzkKCk9yaWdpbmFsIENyZWF0b3IKc2xlbmRlciAtIGh0dHBzOi8vc3RlYW1jb21tdW5pdHkuY29tL2lkL3NsZW5kZXJpbmkKCkkgZGlkIG5vdCBjcmVhdGUgdGhpcyBtYXAuIEkgcG9ydGVkIGl0IGZyb20gQ1M6R08gdG8gQ1MyLg==</description>
+      <image_url>https://images.steamusercontent.com/ugc/2303090939573271222/32705CA844889E7BD6C218960BF239850BDFF10C/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>19333076</file_size>
+    </mod>
+    <mod id="3329315889">
+      <name>awp_lego_3_remastered</name>
+      <description>VGhlIGJlc3QgdmVyc2lvbiBvZiBBV1AgTEVHTyAzIQ0KDQpIb3N0ZWQgb24gZ2xvdmV3b3JrcyENCmNvbm5lY3QgMTYyLjI0OC45My41OjI3MDE1DQp0byBwbGF5IG5vdyENCg0KMjQgQ1QgU3Bhd25zIHdpdGggQVdQICYgS25pZmUNCjI0IFQgU3Bhd25zIHdpdGggQVdQICYgS25pZmUNCg0KUGxheSBBV1AgTEVHTyBNSU5JIEhlcmU6DQpodHRwczovL3N0ZWFtY29tbXVuaXR5LmNvbS9zaGFyZWRmaWxlcy9maWxlZGV0YWlscy8/aWQ9MzMzMTA3NTU2NA0KDQpQbGF5IEFXUCBMRUdPIDIgSGVyZToNCmh0dHBzOi8vc3RlYW1jb21tdW5pdHkuY29tL3NoYXJlZGZpbGVzL2ZpbGVkZXRhaWxzLz9pZD0zMzMzNzc3MTE3DQoNCiJBbm90aGVyIGxlZ28gQXdwIE1hcCAhIg0KT3JpZ2luYWwgQ1M6R08gTWFwIGJ5IG5vQnJhaW46DQpodHRwczovL3N0ZWFtY29tbXVuaXR5LmNvbS9zaGFyZWRmaWxlcy9maWxlZGV0YWlscy8/aWQ9MzY2MjE4OTgxJnNlYXJjaHRleHQ9YXdwK2xlZ28rMw0KDQpPTl9HUklEDQpmb3JnZSB0aGUgd29ybGQ=</description>
+      <image_url>https://images.steamusercontent.com/ugc/2376300430069967054/7EF38473EFD64E64694D530A7BB55A6F6303B03E/</image_url>
+      <download_url/>
+      <filename/>
+      <file_size>167857409</file_size>
+    </mod>
+  </mods>
+  <config>
+    <regex>(.*\n?)*</regex>
+    <mods_backreference_index>0</mods_backreference_index>
+    <variable/>
+    <place_after/>
+    <mod_string>%first_file%</mod_string>
+    <string_separator>\n</string_separator>
+    <filepath>modlist.txt</filepath>
+  </config>
+  <post_install/>
+  <uninstall/>
+</workshop_settings>
